@@ -1,0 +1,22 @@
+.list-item {
+  list-style: none;
+}
+
+.title-date-container {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+}
+
+.date {
+  color: #616e7c;
+}
+
+.description {
+  color: #616e7c;
+}
+
+.hr-line {
+  background-color: #9aa5b1;
+  width: 90%;
+}
